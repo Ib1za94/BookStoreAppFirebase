@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BookStoreAppFirebase" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#1B0D07</item>
+    </style>
+</resources>
